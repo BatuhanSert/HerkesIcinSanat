@@ -2,7 +2,7 @@
 
 Project-->Herkes İçin Sanat 
 
-![Logo of ESTU](https://gitlab.com/his7/his/-/raw/master/eskisehir-teknik-universitesi-logo-768x288.png)
+![Logo of ESTU](https://github.com/BatuhanSert/HerkesIcinSanat/blob/main/eskisehir-teknik-universitesi-logo-768x288.png)
 
 
 ## Getting Started
